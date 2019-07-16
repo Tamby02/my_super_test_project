@@ -1,5 +1,5 @@
 age= gets.to_i
-i= age
+i = age
 p = 0
 
 age.to_i.times do 
